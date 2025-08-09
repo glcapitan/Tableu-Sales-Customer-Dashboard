@@ -15,7 +15,7 @@ To build a clear, interactive dashboard that helps decision-makers understand:
 
 ## 📂 Dataset Overview
 
-- **Source**: Company sales & customer dataset (sample or simulated for analytics practice)
+- **Source**: Kaggle
 - **Fields Used**: Order Date, Sales, Profit, Quantity, Category, Region, Customer Name, Segment, City, State
 
 ---
